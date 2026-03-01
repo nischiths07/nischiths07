@@ -58,21 +58,23 @@
 
 <p align="center">
 
-<a href="mailto:snischith07@gmail.com">
+<a href="mailto:snischith07@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/nischiths07">
+<a href="https://github.com/nischiths07" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/💻 GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/nischith-s7/">
+<a href="https://www.linkedin.com/in/nischith-s7/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://snischithportfolio.vercel.app/">
+<a href="https://snischithportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐 Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
+</a>    
+
+</p>
 
 </p>
 </p>
