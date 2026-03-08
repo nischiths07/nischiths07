@@ -17,7 +17,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749695-6b0f5e2c-7c65-4e75-bf0f-ffb28c0b8f9f.gif">
 
-- 🎓 First-Year Engineering Student  
+- 🎓 Pre Final-Year Computer Science Engineering Student  
 - 🤖 Passionate about Artificial Intelligence & Intelligent Systems  
 - 🌐 Learning Full Stack Development & Cloud  
 - 🐳 Exploring Docker, AWS, and DevOps  
